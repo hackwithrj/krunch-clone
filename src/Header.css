@@ -1,0 +1,26 @@
+.wrapper {
+    display: block;
+    width: 75rem;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.nav-bar {
+    background-color: transparent;
+    display: block;
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    color: #5c5c5c;
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 400;
+}
+
+.w-nav {
+    position: relative;
+    background: #dddddd;
+    z-index: 1000;
+    display: block;
+}

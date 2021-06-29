@@ -1,2 +1,1 @@
-# krunch-clone
-React clone of the krunch webflow website
+React clone of the Krunch webflow site
